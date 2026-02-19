@@ -6,8 +6,6 @@ Program Studi: Teknik Informatika
 
 Mata Kuliah: Pengembangan Aplikasi Mobile
 
-
-
 -----------------------------------------------------------------------------------------------------------------------------
 
 Cara Menjalankan Aplikasi
@@ -47,6 +45,8 @@ Hanya berita dengan kategori tertentu yang lolos Filter.
 Status StateFlow yang menampilkan jumlah berita yang sudah dibaca.
 
 Detail berita yang diambil secara asinkron menggunakan Async/Await.
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 Ringkasan Fitur yang Berjalan
 Flow Builder: Menghasilkan data stream secara real-time.
