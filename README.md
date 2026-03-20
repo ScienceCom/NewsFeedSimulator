@@ -2,6 +2,7 @@ Nama : Falih Faiq Fadhlurrahman
 NIM  : 123140129
 
 Profile View
+-------------------------------------
 <img src="profile.png" width="600" />
 
 Edit Form
